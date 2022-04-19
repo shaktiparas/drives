@@ -1,0 +1,1 @@
+[25-Aug-2020 12:01:03 UTC] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /home/amandeep/public_html/retailersapp/PHPMailer/PHPMailerAutoload.php on line 45
